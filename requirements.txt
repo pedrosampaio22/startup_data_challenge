@@ -2,4 +2,6 @@ pandas
 pyarrow
 plotly
 streamlit
-jupyter
+scipy
+seaborn
+matplotlib
